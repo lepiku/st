@@ -1,0 +1,7 @@
+# build files
+st
+*.o
+
+# patch files
+patches/*
+*.orig
