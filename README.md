@@ -10,3 +10,5 @@
   - st-copyurl-20220217-0.8.5.diff
 - [hidecursor](https://st.suckless.org/patches/hidecursor/)
   - st-hidecursor-0.8.3.diff
+- [font2](https://st.suckless.org/patches/font2/)
+  - st-font2-20190416-ba72400.diff
